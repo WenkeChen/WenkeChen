@@ -28,11 +28,11 @@
   ![GitLab](https://img.shields.io/badge/-GitLab-282C34?style=flat&logo=gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-282C34?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/IDEA-282C34?style=flat&logo=IntelliJ%20IDEA&logoColor=007ACC)
+  ![IDEA](https://img.shields.io/badge/IDEA-282C34?style=flat&logo=IntelliJ%20IDEA&logoColor=007ACC)
 
 ## My Stats
 <p>
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/wenkechen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wenkechen&show_icons=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wenkechen&layout=compact&show_icons=true" />
 </a>
